@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:/Users/Oskar/venvs/default/Scripts/python.exe",
+    "python.linting.pylintArgs": ["--errors-only"]
+}
